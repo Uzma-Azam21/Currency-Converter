@@ -1,0 +1,21 @@
+{
+  "name": "cli-currency-converter-1",
+  "version": "1.0.0",
+  "description": "CurrencyConverter CLI: A fast and straightforward command-line tool for converting currencies. Get real-time exchange rates and make conversions with ease.",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
